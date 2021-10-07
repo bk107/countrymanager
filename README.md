@@ -1,2 +1,2 @@
-#Country Manager
+# Country Manager
 Fancy name, can give you the iso country code for a given list of countries. Had a task at work to manually select these infos and thought why not create a small and nice react app out of it. And here it is. Done in less than an hour.
