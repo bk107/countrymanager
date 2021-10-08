@@ -3,4 +3,8 @@ Fancy name, can give you the iso country code for a given list of countries. Had
 
 
 ## how to use
-clone the repo, and use "yarn start" to start the app. That is all. You should see a very minimalistically designed front end. Enter a list of country names (native names allowed, too), either seperated by comma or line break, and hit load. At the moment, only valid results are shown. Check browser console/network tab (F12) for errors. Error handling comes next time... maybe... 
+1. clone the repo, 
+2. open console in that dir and run "npm install"
+3. use "yarn start" to start the app. 
+
+That is all. You should see a very minimalistically designed front end. Enter a list of country names (native names allowed, too), either seperated by comma or line break, and hit load. At the moment, only valid results are shown. Check browser console/network tab (F12) for errors. Error handling comes next time... maybe... 
